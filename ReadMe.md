@@ -10,15 +10,15 @@ This tool is developed from YOLO Annotation Tool. For more information, please c
 
 1. Run <kbd>main.py</kbd> in Python3.
 
-1. Fill the directory of images in  `Image Dir` box by typing `./`, and click `load` button.
+1. Fill the directory of images in  `Image Dir` box by typing `./`, and click `Load` button.
 
-1. Select the region of interest.
+1. Choose the class and select the region of interest.
 
 1. The output will be saved in the folder __Labels/__ by clicking buttons `<<Prev`, `Next>>`, or going to other images.
 
 #### Directory structure after running:
 ```
-AnnotationTool
+AOLME_HeadDet_Annotation_Tool
 │   ReadME.md
 │   classes.txt    
 │   main.py
